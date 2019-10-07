@@ -1,0 +1,5 @@
+Apple,5,20,wood
+MSI,3,30,steel
+Samsung,7,50,wool
+Xiaomi,4,32,stone
+LG,10,63,copper
